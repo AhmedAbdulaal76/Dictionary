@@ -1,0 +1,4 @@
+addWord -> O(logn)
+findWord -> O(logn)
+deleteWord -> O(logn)
+findSimilar -> O(logn)

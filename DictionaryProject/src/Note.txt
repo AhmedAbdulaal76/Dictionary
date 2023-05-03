@@ -1,0 +1,6 @@
+i had to make a second version (AVL) of this project as the doctor said, but i kept 
+the BTree version as it is more effecient on space complexity
+
+so for faster testing, i recommend using the B-Tree version.
+runtime for loading the dictionary in AVL = 30+ seconds.
+runtime for loading the dictionary in B-Tree = less than 3.5 seconds.
